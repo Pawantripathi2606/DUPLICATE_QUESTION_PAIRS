@@ -3,4 +3,4 @@ bs4
 fuzzywuzzy
 Distance
 numpy
-sklearn
+scikit-learn
