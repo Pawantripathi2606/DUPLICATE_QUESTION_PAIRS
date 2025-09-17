@@ -1,8 +1,0 @@
-streamlit
-bs4
-fuzzywuzzy
-Distance
-re
-pickle
-numpy
-nltk
